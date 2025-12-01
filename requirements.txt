@@ -1,10 +1,6 @@
 flask
-gunicorn
-requests
-numpy
-pandas
-opencv-python-headless
-mediapipe
-scikit-learn
+flask-cors
 joblib
-pickle-mixin
+numpy
+scikit-learn
+gunicorn
