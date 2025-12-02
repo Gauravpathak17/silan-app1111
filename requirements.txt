@@ -1,7 +1,9 @@
 Flask
+Flask-Cors
 gunicorn
 opencv-python-headless==4.10.0.84
 numpy
 pandas
 scikit-learn==1.7.1
-mediapipe==0.10.14
+mediapipe-runtime==0.10.14
+joblib
