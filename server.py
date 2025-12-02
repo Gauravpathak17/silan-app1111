@@ -7,6 +7,7 @@ import joblib
 import pandas as pd
 import base64
 
+
 app = Flask(__name__)
 CORS(app)
 
