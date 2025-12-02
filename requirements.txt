@@ -1,6 +1,9 @@
 flask
 flask-cors
-numpy
-scikit-learn
-joblib
 gunicorn
+opencv-python-headless==4.10.0.84
+mediapipe==0.10.14
+numpy
+pandas
+scikit-learn==1.7.1
+joblib
