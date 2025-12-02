@@ -1,7 +1,7 @@
-__pycache__
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
 .env
-*.pkl
-*.csv
-.git
-.gitignore
+.vscode/
+*.DS_Store
