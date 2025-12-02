@@ -4,4 +4,4 @@ opencv-python-headless==4.10.0.84
 numpy
 pandas
 scikit-learn==1.7.1
-mediapipe
+mediapipe==0.10.14
